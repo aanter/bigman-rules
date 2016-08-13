@@ -1,2 +1,3 @@
 # bigman-rules
-Tutorial repo
+
+I am a simple man with simple dream in a complex world!!
